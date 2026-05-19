@@ -8,7 +8,7 @@ project:
       url: "https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUofTCompDSci%2Fggr274-20271&urlpath=tree%2Fggr274-20271%2F&branch=main"
     - title: Course Syllabus
       file: syllabus.md
-    - title: Guides
+    - title: Resources
       children:
         - file: guides/jupyterhub_guide.ipynb
         - file: guides/markus_guide.ipynb
