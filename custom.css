@@ -45,8 +45,8 @@ nav a[href*="git-pull"]:hover,
 nav a[href*="git-pull"]:focus,
 nav a[href*="nbgitpuller"]:hover,
 nav a[href*="nbgitpuller"]:focus {
-  background-color: #1f4fbf !important;
-  border-color: #1f4fbf !important;
+  background-color: #deedfe !important;
+  border-color: #deedfe !important;
   color: black !important;
   text-decoration: none !important;
 }
