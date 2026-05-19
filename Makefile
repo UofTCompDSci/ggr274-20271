@@ -12,5 +12,4 @@ publish-source:
 clean-publish-source:
 	rm -rf _publish
 
-book-publish:
 	jupyter-book build  --html
