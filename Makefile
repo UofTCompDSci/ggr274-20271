@@ -13,4 +13,4 @@ clean-publish-source:
 	rm -rf _publish
 
 book-publish:
-	jupyter-book build 
+	jupyter-book build  --html
