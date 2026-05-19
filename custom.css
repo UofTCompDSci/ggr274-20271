@@ -47,7 +47,7 @@ nav a[href*="nbgitpuller"]:hover,
 nav a[href*="nbgitpuller"]:focus {
   background-color: #1f4fbf !important;
   border-color: #1f4fbf !important;
-  color: white !important;
+  color: black !important;
   text-decoration: none !important;
 }
 
