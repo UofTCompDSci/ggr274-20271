@@ -40,9 +40,21 @@ nav a[href*="nbgitpuller"] {
   color: white;
 }
 
-/* Optional hover state */
+/* Hover/focus state */
 nav a[href*="git-pull"]:hover,
-nav a[href*="nbgitpuller"]:hover {
-  filter: brightness(0.92);
-  color: white;
+nav a[href*="git-pull"]:focus,
+nav a[href*="nbgitpuller"]:hover,
+nav a[href*="nbgitpuller"]:focus {
+  background-color: #1f4fbf !important;
+  border-color: #1f4fbf !important;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+/* Optional active/click state */
+nav a[href*="git-pull"]:active,
+nav a[href*="nbgitpuller"]:active {
+  background-color: #163a8a !important;
+  border-color: #163a8a !important;
+  color: white !important;
 }
