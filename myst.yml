@@ -5,8 +5,8 @@ project:
     - file: index.md
     - title: "📓 Open notebooks in JupyterHub"
       url: "https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUofTCompDSci%2Fggr274-20271&urlpath=tree%2Fggr274-20271%2F&branch=main"
-    - file: syllabus.md
-      title: Course Syllabus
+    - title: Course Syllabus
+      file: syllabus.md
     - title: Guides
       children:
         - file: guides/jupyterhub_guide.ipynb

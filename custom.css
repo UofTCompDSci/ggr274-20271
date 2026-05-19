@@ -24,3 +24,25 @@ a[href^="#divider-week"]::after{
   border-top: 1px solid currentColor;
   opacity: 0.5;
 }
+
+/* Make nbgitpuller links look like sidebar buttons */
+nav a[href*="git-pull"],
+nav a[href*="nbgitpuller"] {
+  display: block;
+  margin: 0.75rem 0.5rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid var(--pst-color-primary, #356ae6);
+  background: var(--pst-color-primary, #356ae6);
+  color: white;
+}
+
+/* Optional hover state */
+nav a[href*="git-pull"]:hover,
+nav a[href*="nbgitpuller"]:hover {
+  filter: brightness(0.92);
+  color: white;
+}
