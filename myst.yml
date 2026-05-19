@@ -1,0 +1,24 @@
+version: 1
+project:
+  title: GGR 274 Winter 2027
+  toc:
+    - file: index.md
+    - file: syllabus.md
+      title: Course Syllabus
+    - title: Guides
+      children:
+        - file: guides/jupyterhub_guide.ipynb
+        - file: guides/markus_guide.ipynb
+        - file: guides/python_quick_reference.ipynb
+    - title: Week 1
+      children:
+        - file: weekly-materials/week01/homework/Homework_1.ipynb
+          title: Week 1 homework
+site:
+  template: book-theme
+  title: GGR 274 Winter 2027
+  options:
+    logo_text: GGR 274 Winter 2027
+    folders: true
+    primary_sidebar_footer: primary-sidebar-footer.md
+    style: ./custom.css
