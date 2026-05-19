@@ -1,0 +1,63 @@
+,id,year,specialist_major,drink_type,cups_per_week,favourite_season,pets_num,pets_type,commute_mode,commute_time,intersection,city,longitude,latitude
+0,1,3.0,Economics ,Tea,5,Fall,0,,Walking/Rolling,30,King and Spadina,Toronto,-79.395147496553,43.645443564116
+1,2,3.0,Biodiversity and Conservation Biology,Tea,4,Summer,0,,Walking/Rolling,15,Bay Street and Wellesley Street,Toronto,-79.387171026034,43.664361016669
+2,3,2.0,Finance and Economics Specialist ,Coffee,2,Summer,3,Dog;,Walking/Rolling,10,Spadina Avenue & Harbour Street,Toronto ,-79.37894093142,43.641579624857
+3,4,2.0,B.M. Violin performance,Coffee,12,Summer,0,,Subway,60,Major Mackenzie & Hwy 7,Toronto,-79.596046041509,43.779133997755
+4,5,2.0,Sociology,Tea,3,Fall,0,,Walking/Rolling,15,Bay Street & Bloor Street,Toronto,-79.38949398668,43.669661019775
+5,6,2.0,Finance and Economics ,Coffee,2,Summer,0,,Walking/Rolling,25,Yonge Street & Bloor Street,Toronto ,-79.386754026351,43.670229019444
+6,7,4.0,Economics,Tea,6,Summer,1,Cat;,Walking/Rolling,30,King W and Spadina,Toronto,-79.395147496553,43.645443564116
+7,8,4.0,Human Geography,Juice,2,Fall,0,,Subway,60,Warden Ave & St Clair Ave E,Toronto,-79.281099969186,43.712073994666
+8,9,2.0,Economics,Tea,0,Summer,0,,Walking/Rolling,25,Yonge Street & Bloor Street,Toronto,-79.386754026351,43.670229019444
+9,10,2.0,Linguistics,Tea,1,Fall,0,,Bicycle/Scooter,10,Davenport Road & Avenue Road,Toronto,-79.396581975462,43.67471099071
+10,11,2.0,Management,Coffee,3,Summer,0,,Walking/Rolling,25,Yonge Street & Wellesley Street,Toronto,-79.384584035438,43.664930986084
+11,12,3.0,Human Geography,Tea,4,Fall,1,Cat;,Walking/Rolling,5,Bloor Street & St George Street,Toronto,-79.399817976821,43.667517012762
+12,13,3.0,Specialist in Finance and Econ,Tea,0,Fall,0,,Walking/Rolling,25,Yonge and Bloor,Toronto,-79.386754026351,43.670229019444
+13,14,3.0,Economics,Tea,0,Spring,0,,Bicycle/Scooter,20,Bloor and Sherborne,Toronto,-79.376861033671,43.672348006476
+14,15,4.0,Human Geography,Coffee,6,Summer,0,,Subway,30,Greenwood & Queen,Toronto,-79.325289027451,43.664378995851
+15,16,1.0,Undecided,Coffee,2,Spring,1,Bunny;,Walking/Rolling,14,Yonge Street & Bloor Street ,Toronto ,-79.386754026351,43.670229019444
+16,17,1.0,Finance and Economics,hot chocolate,0,Winter,4,Dog;,Walking/Rolling,15,Bloor Street & Queens Park,Toronto,-79.394119037033,43.668678995999
+17,18,2.0,Political Science,Tea,0,Fall,1,Dog;,Subway,50,Keele & Sheppard Avenue West,Toronto,-79.486527004971,43.744853019596
+18,19,3.0,Architecture,Coffee,5,Fall,2,Cat;,Walking/Rolling,25,College Street & Spadina Street,Toronto,-79.400211004261,43.657962020327
+19,20,,Rotman Commerce Specialist Finance and Economics,Tea,4,Summer,0,,Walking/Rolling,10,Bloor and Avenue Road,Toronto,-79.394119037033,43.668678995999
+20,21,2.0,Urban studies,Tea,12,Spring,2,Cat;Dog;,Subway,60,Keele Street & Sheppard Ave West,Toronto,-79.486527004971,43.744853019596
+21,22,4.0,Accounting,Coffee,4,Summer,3,Dog;,Subway,45,Yonge & Sheppard ,Toronto,-79.410943025449,43.761592979432
+22,23,3.0,Neuroscience Specialist,Coffee,5,Winter,0,,Subway,40,Royal York Road & Bloor Street,Toronto,-79.51137901261,43.647407988853
+23,24,4.0,International Relations,Coffee,5,Summer,5,Cat;Dog;,Subway,45,Eglinton Avenue & Leslie Street,Toronto,-79.3500120376,43.717177986967
+24,25,4.0,Archaeology/Philosophy,Coffee,10,Summer,0,,Car,45,Yonge and Steeles,Thornhill,-79.420074019311,43.797992986533
+25,26,3.0,Political Science ,Coffee,5,Winter,2,Dog;Cat;,Subway,30,Spadina & Queen St W,Toronto,-79.396476698758,43.648736855783
+26,27,2.0,Psychology,Coffee,7,Spring,2,Dog;Chinchilla;,Walking/Rolling,10,College Street & Spadina Avenue,Toronto,-79.400211004261,43.657962020327
+27,28,4.0,Philosophy,Tea,2,Spring,1,Cat;,Walking/Rolling,15,Avenue Street and Bloor Street,Toronto,-79.394119037033,43.668678995999
+28,29,3.0,Environmental Geography,Tea,3,Summer,1,Cat;,Walking/Rolling,20,Bay Street & Charles Street,Toronto,-79.388862997009,43.668193013253
+29,30,1.0,Psychology and Linguistics,Tea,7,Fall,1,Dog;,Subway,90,Bayview Ave & Major Mackenzie Ave,Richmond Hill,-79.415450980615,43.8760360069
+30,31,4.0,Accounting,Tea,3,Fall,0,,Walking/Rolling,10,College and Spadina,Toronto,-79.400211004261,43.657962020327
+31,32,4.0,Economics,Tea,3,Spring,0,,Walking/Rolling,20,Bay Street & College Street,Toronto,-79.385838890162,43.660807215451
+32,33,3.0,Book and Media Studies,Coffee,6,Fall,0,,Walking/Rolling,15,Yonge Street & Dundas Street West,Toronto,-79.380913013304,43.656322017152
+33,34,3.0,Rotman Commerce Finance and Economics Specialist,Tea,2,Summer,1,Dog;,Subway,60,Bay & Bloor,Toronto,-79.38949398668,43.669661019775
+34,35,2.0,Commerce,Coffee,7,Summer,1,Dog;,Walking/Rolling,25,Yonge Street & College Street,Toronto,-79.383101025309,43.661377981147
+35,36,4.0,Commerce,Coffee,5,Summer,1,Cat;,Subway,120,King Street & Quigley Road,Hamilton,-79.781396994265,43.222586020465
+36,37,4.0,Archaeology,Tea,10,Spring,0,,Subway,60,Dixie and Queensway,Mississauga,-79.575034035172,43.60299199056
+37,38,2.0,Rotman Commerce Finance & Economics Specialist + Data Science Focus,Coffee,5,Fall,0,,Walking/Rolling,6,St. George Street & Hoskin Ave,Toronto,-79.398435968626,43.664104991436
+38,39,2.0,Political Science,Tea,3,Spring,0,,Walking/Rolling,12,Avenue Road and Bloor,Toronto,-79.394119037033,43.668678995999
+39,40,3.0,Architectural Studies,Coffee,18,Summer,0,,Walking/Rolling,25,Yonge Street & Bloor Street,Toronto,-79.386754026351,43.670229019444
+40,41,3.0,Urban studies,Hot chocolate,4,Fall,0,,Walking/Rolling,10,Bloor Street & Avenue Road,Toronto,-79.394119037033,43.668678995999
+41,42,3.0,Cognitive Science,Tea,1,Spring,0,,Subway,45,Yonge Street & Empress Avenue,Toronto,-79.412727029721,43.769298002016
+42,43,3.0,Archaeology,Coffee,9,Winter,2,Cat;,Walking/Rolling,25,Yonge and Wellesley ,Toronto,-79.384584035438,43.664930986084
+43,44,3.0,Forest Conservation Science,Coffee,7,Spring,1,Dog;,Walking/Rolling,15,Harbord Street & Bathurst Street,Toronto,-79.409748017513,43.661514019436
+44,45,4.0,Civil Engineering ,Tea,3,Summer,0,,Subway,30,Yonge Street & Eglinton Ave,Toronto,-79.39831702942,43.706750983236
+45,46,3.0,Human Geography,Hot Chocolate,1,Fall,2,Cat;,Walking/Rolling,10,College & Spadina,Oakville,-79.687666,43.467517
+46,47,2.0,political science,Coffee,18,Summer,1,Dog;,Walking/Rolling,15,Bloor St West at Avenue Rd,Toronto ,-79.394119037033,43.668678995999
+47,48,4.0,Architectural Studies,Hot Chocolate,3,Summer,0,Bird;,Walking/Rolling,25,College and Yonge,Toronto,-79.383101025309,43.661377981147
+48,49,3.0,Cognitive Science,Matcha,4,Winter,1,Cat;,Walking/Rolling,20,Yonge Street & Bloor Street,Toronto,-79.386754026351,43.670229019444
+49,50,4.0,Geography,Tea,1,Spring,0,,Walking/Rolling,20,Bloor,Toronto,-79.58178301788,43.627945000133
+50,51,3.0,Psychology,Coffee,4,Fall,1,Cat;,Walking/Rolling,15,Wellesley Street West & Yonge Street,Toronto,-79.384584035438,43.664930986084
+51,52,3.0,Finance and Economics Specialist in Rotman Commerce,Coffee,7,Fall,0,,Walking/Rolling,20,Yonge and Bloor Street,Toronto,-79.386754026351,43.670229019444
+52,53,2.0,Specialist in Architectural Studies (Hopefully going to tech stream next year),Coffee,7,Fall,1,Dog;,Walking/Rolling,30,University & Dundas,Toronto,-79.388128993748,43.654820985931
+53,54,5.0,Economics ,Coffee,5,Summer,1,Dog;,Walking/Rolling,20,Yonge and College ,Toronto,-79.383101025309,43.661377981147
+54,55,3.0,Human Geography,Coffee,7,Fall,0,,Walking/Rolling,20,College Street & Yonge Street,Toronto,-79.383101025309,43.661377981147
+55,56,4.0,Earth Science,Coffee,7,Fall,1,Cat;,Walking/Rolling,10,Dundas & Spadina,Toronto,-79.398037995863,43.652935015807
+56,57,2.0,Rotman Finance and Economics,Coffee,4,Fall,0,,Subway,25,Yonge Street & Dundas Street,Toronto,-79.380913013304,43.656322017152
+57,58,3.0,Finance and Economics ,Coffee,0,Summer,4,Dog;Cat;,Walking/Rolling,25,Yonge Carlton ,Toronto,-79.3825945069,43.661770002759
+58,59,4.0,Civil Engineering,Tea,0,Summer,0,,Bicycle/Scooter,15,Bay Street & Bloor Street,Toronto,-79.38949398668,43.669661019775
+59,60,2.0,Management,Tea,5,Fall,1,Cat;,Walking/Rolling,12,Bay Street & Bloor Street,Toronto,-79.38949398668,43.669661019775
+60,61,4.0,Rotman,Coffee,1,Summer,0,,Walking/Rolling,7,St George and Harbord,Toronto,-79.398435968626,43.664104991436
+61,62,1.0,Sociology,Tea,3,Spring,0,,Walking/Rolling,13,College Street & Spadina Avenue,Toronto,-79.400211004261,43.657962020327
