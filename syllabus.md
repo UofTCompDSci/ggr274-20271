@@ -90,9 +90,9 @@ Class | Week of  | Topic
 Assessment              | Weight | Due Date/Date Held |
 ------------------------|--------|--------------------|
 Weekly homework         | 20%    | Monday 11:59pm the following week    |
-Weekly lab              | 5%     | Weekly lab and submission by Thursday 11:59pm |
+Weekly lab              | 10%     | Weekly lab and submission by Thursday 11:59pm |
 Midterm test            | 20%    | Feb. 10 9:10am-11:00am in person|
-Final project proposal  | 10%    | March 6 11:59pm    |
+Final project proposal  | 5%    | March 6 11:59pm    |
 Final project           | 15%    | April 2 11:59pm     |
 Final exam              | 30%    | April Final Assessment period |
 
