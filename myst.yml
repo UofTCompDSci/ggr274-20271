@@ -22,8 +22,6 @@ project:
           title: Week 1 homework
     - title: Week 7
       children:
-        - file: weekly-materials/week07/homework/Homework_7.ipynb
-          title: Week 7 Homework
         - file: weekly-materials/week07/lab/Lab_7.ipynb
           title: Week 7 Lab
     - title: Week 8
