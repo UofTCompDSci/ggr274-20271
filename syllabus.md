@@ -71,32 +71,34 @@ By the end of this course, you should be able to:
 
 Class | Week of  | Topic                                                                   
 ------|----------|-------------------------------------------------------------------------
-1     |Jan. 6    | Introduction to Social Science, Data Science, Python, and JupyterHub
-2     |Jan. 13   | Introduction to Python Programming 
-3     |Jan. 20   | Reading Files, Dictionaries, and Descriptive Statistics
-4     |Jan. 27   | Introduction to pandas and Data Wrangling 
-5     |Feb. 3    | Data Transformations, Grouped Data, and Data Visualization 
-6     |Feb. 10   | Midterm Exam
---    |Feb. 17   | **Reading week**
-7     |Feb. 24   | Probability and Statistical Distributions 
-8     |March 3   | Statistical Inference 
-9     |March 10  | Correlation & Regression 
-10    |March 17  | Introduction to Spatial Data & Mapping 
-11    |March 24  | Spatial Analysis 
-12    |March 31  | Conclusion and Exam Review 
+1     |Jan. 12    | Introduction to Social Science, Data Science, Python, and JupyterHub
+2     |Jan. 19   | Introduction to Python Programming 
+3     |Jan. 26   | Reading Files, Dictionaries, and Descriptive Statistics
+4     |Feb. 2   | Introduction to pandas and Data Wrangling 
+5     |Feb. 9    | Data Transformations, Grouped Data, and Data Visualization 
+--    |Feb. 16   | **Reading week**
+6    |Feb. 23  | Midterm Exam
+7     |March 2    | Probability and Statistical Distributions 
+8     |March 9   | Statistical Inference 
+9     |March 16  | Correlation & Regression 
+10    |March 23  | Introduction to Spatial Data & Mapping 
+11    |March 30  | Spatial Analysis 
+12    |April 6  | Conclusion and Exam Review 
 
 ## Evaluation
 
 Assessment              | Weight | Due Date/Date Held |
 ------------------------|--------|--------------------|
 Weekly homework         | 20%    | Monday 11:59pm the following week    |
-Weekly lab              | 10%     | Weekly lab and submission by Thursday 11:59pm |
+Weekly lab              | 5%     | Weekly lab and submission by Thursday 11:59pm |
 Midterm test            | 20%    | Feb. 10 9:10am-11:00am in person|
-Final project proposal  | 5%    | March 6 11:59pm    |
+Final project proposal  | 10%    | March 6 11:59pm    |
 Final project           | 15%    | April 2 11:59pm     |
 Final exam              | 30%    | April Final Assessment period |
 
-*Note:* Week 1 homework is due on Jan. 20 (the same as Week 2 homework), considering the enrollment from waitlist.
+*Note:* Week 1 homework is due on Jan. 25 (the same as Week 2 homework), considering the enrollment from waitlist.
+
+*Late Enrolment:* If you enrol in the course on January 21 or later, you will receive an extension on the first two homeworks and the lab in week 2 until January 28. You must contact the instructor to receive this extension. The course is cumulative, so you need to get caught up promptly.
 
 
 ### Weekly lab and homework 
@@ -107,10 +109,10 @@ There will be 10 labs and homeworks in total. **You will have homework from the 
 
 Labs will be designed to help you review course material and get started on the weekly homework exercises. In the lab, you'll be able to work with your classmates and your TA to practice and apply the knowledge and skills introduced in that week's lecture. 
 
-You'll complete a few small tasks in the lab and submit your lab Notebook **during the lab session** (or by 23:59 on Thursday). Grade of lab is counted based on attendance at each lab **and** submission of lab on MarkUs. You'll get **full** lab grade if you attend *and* submit your lab; you'll get **half** lab grade if you either attend *or* submit your lab; you'll get zero if you don't attend or submit your lab.
+You will complete a few small tasks in the lab and submit your lab Notebook **during the lab session** (or by 23:59 on Thursday). Grade of lab is counted based on attendance at each lab **and** the work completed for your lab on MarkUs. You'll get **full** lab grade if you attend *and* submit your lab; you'll get **half** lab grade if you either attend *or* submit your lab; you'll get zero if you don't attend or submit your lab. The labs will include some programming questions and some written questions.
 
-You'll then have additional time after the lab to complete your assigned homework, and submit it by **Monday at 11:59pm the following week**.
-Your submitted homework will be graded both by TAs and by automated tests to check the correctness of your code.
+You will then have additional time after the lab to complete your assigned homework, and submit it by **Monday at 11:59pm the following week**.
+Your submitted homework will be graded primarily by automated tests to check the correctness of your code. There will typically be some automated tests that you can run to make sure that you have the basic set up correct, and there will be some additional tests that are run after the deadline for grading purposes.
 
 *Note*: to give you flexibility throughout the semester, your two lowest lab and homework grades will be dropped. This includes dropping grades of 0 when you do not submit a weekly homework.
 
@@ -125,7 +127,7 @@ More details about the midterm will be posted closer to the date.
 
 The final project will involve students using data science methodologies to explore a scientific question and communicate the results.
 
-A project proposal will be due on **March 7**, and the final project will be due on **April 2**.
+A project proposal will be due on <mark>**March 7**,</mark> and the final project will be due on <mark>**April 2**.</mark>
 
 One of the goals of the project proposal is to give you feedback that can be incorporated into your final project.
 
@@ -152,7 +154,7 @@ You will only get your full lab grade if you attend the lab tutorial and submit 
 
 ### Project proposal and final project
 
-You can request an extension to submit project proposal and final project with appropriate materials (e.g., Letter of Accomondations) via [this link](https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEPkM_c4DCQVDrC0zCIGqORtUN1VYQkUxU09ETzk2QlVVS0lVTzFJSDVXMy4u). The system will automatically respond with your new due date.
+You can request an extension to submit project proposal and final project with appropriate materials (e.g., Letter of Accomondations) via [this link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEPkM_c4DCQVDrC0zCIGqORtUNUExUzVERFJJSUExN05OSVZNMkE5S1E2RS4u). The system will automatically respond with your new due date.  Extensions up to four days do not require documentation and are approved automatically. Please contact the instructor if a longer extension is needed.
 
 ### Midterm test 
 
