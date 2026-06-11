@@ -1,8 +1,8 @@
 ﻿Criteria,Points,Excellent,Good,Adequate,Poor
-Introduction,5,,,,
-Data & Methods,5,,,,
-Results,5,,,,
-Conclusion,5,,,,
-Vocabulary,5,,,,
+Introduction,5,"Scope of analysis is very well articulated, with purpose of analysis and importance of research questions clearly described.","Scope of analysis is well articulated, but purpose of analysis and/or importance of research questions could be better described.","Scope of analysis is less well articulated, and the purpose of analysis or importance of research questions is less clear.","Explanation is brief or incomplete, and questions are missing or inadequate."
+Data & Methods,5,Clear and concise description of data wrangling and methods used for analysis.,"Relatively clear description of data wrangling and methods used, but provides too much or too little detail about particular components.",Description of data wrangling or methods is inadequate.,Little to no description of data wrangling or methods provided.
+Results,5,Results are clearly and completely summarized.,"Results are completely summarized, but description could be improved somewhat.",Description of results is present but incomplete.,Summary of results is very brief or missing.
+Conclusion,5,Implications of analysis and appropriate limitations are clearly stated.,Some implications are limitations are stated.,Conclusions are not appropriate and discussion of limitations is brief or missing.,Results are not summarized and conclusion is missing.
+Vocabulary,5,"Accurate use of statistical terms and phrases, and the presentation was professional and polished.",Good use of statistical terms and phrases whenever necessary. ,"Demonstrated efforts to incorporate statistical terms and phrases, but some were used inaccurately.",Completely inaccurate and wrong use of statistical terms and phrases and signals a lack of understanding.
 Delivery,5,"Well-paced, good volume, and the presenter was confident.","Good pace, and the presenter seemed confident.","Pacing could be improved, volume was not consistent.","Poor pacing, barely audible."
 Total,30,,,,
