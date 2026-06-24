@@ -71,19 +71,19 @@ By the end of this course, you should be able to:
 
 Class | Week of  | Topic                                                                   
 ------|----------|-------------------------------------------------------------------------
-1     |Jan. 12    | Introduction to Social Science, Data Science, Python, and JupyterHub
-2     |Jan. 19   | Introduction to Python Programming 
-3     |Jan. 26   | Reading Files, Dictionaries, and Descriptive Statistics
-4     |Feb. 2   | Introduction to pandas and Data Wrangling 
-5     |Feb. 9    | Data Transformations, Grouped Data, and Data Visualization 
---    |Feb. 16   | **Reading week**
-6    |Feb. 23  | Midterm Exam
-7     |March 2    | Probability and Statistical Distributions 
-8     |March 9   | Statistical Inference 
-9     |March 16  | Correlation & Regression 
-10    |March 23  | Introduction to Spatial Data & Mapping 
-11    |March 30  | Spatial Analysis 
-12    |April 6  | Conclusion and Exam Review 
+1     |Jan. 11    | Introduction to Social Science, Data Science, Python, and JupyterHub
+2     |Jan. 18   | Introduction to Python Programming 
+3     |Jan. 25   | Reading Files, Dictionaries, and Descriptive Statistics
+4     |Feb. 1   | Introduction to pandas and Data Wrangling 
+5     |Feb. 8    | Data Transformations, Grouped Data, and Data Visualization 
+--    |Feb. 15   | **Reading week**
+6    |Feb. 22  | Midterm Test (during class time)
+7     |March 1    | Probability and Statistical Distributions 
+8     |March 8   | Statistical Inference 
+9     |March 15  | Correlation & Regression 
+10    |March 22  | Introduction to Spatial Data & Mapping 
+11    |March 29  | Spatial Analysis 
+12    |April 5  | Conclusion and Exam Review 
 
 ## Evaluation
 
@@ -109,10 +109,10 @@ There will be 10 labs and homeworks in total. **You will have homework from the 
 
 Labs will be designed to help you review course material and get started on the weekly homework exercises. In the lab, you'll be able to work with your classmates and your TA to practice and apply the knowledge and skills introduced in that week's lecture. 
 
-You will complete a few small tasks in the lab and submit your lab Notebook **during the lab session** (or by 23:59 on Thursday). Grade of lab is counted based on attendance at each lab **and** the work completed for your lab on MarkUs. You'll get **full** lab grade if you attend *and* submit your lab; you'll get **half** lab grade if you either attend *or* submit your lab; you'll get zero if you don't attend or submit your lab. The labs will include some programming questions and some written questions.
+You will complete a few small tasks in the lab and submit your lab Notebook **during the lab session** (or by 23:59 on Thursday of the same week). The lab grade is based on attendance at each lab **and** the work completed for your lab on MarkUs. You'll get **full** lab grade if you attend *and* receive full marks on the graded portion of your lab; you'll get **half** lab grade if you either attend *or* submit your lab; you'll get zero if you don't attend or submit your lab. The labs will include some programming questions and some written questions.
 
 You will then have additional time after the lab to complete your assigned homework, and submit it by **Monday at 11:59pm the following week**.
-Your submitted homework will be graded primarily by automated tests to check the correctness of your code. There will typically be some automated tests that you can run to make sure that you have the basic set up correct, and there will be some additional tests that are run after the deadline for grading purposes.
+Your submitted homework will be graded primarily by automated tests to check the correctness of your code. There will typically be some automated tests that you can run to make sure that you have the basic set-up correct, and there will be some additional tests that are run after the deadline for grading purposes.
 
 *Note*: to give you flexibility throughout the semester, your two lowest lab and homework grades will be dropped. This includes dropping grades of 0 when you do not submit a weekly homework.
 
@@ -154,7 +154,7 @@ You will only get your full lab grade if you attend the lab tutorial and submit 
 
 ### Project proposal and final project
 
-You can request an extension to submit project proposal and final project with appropriate materials (e.g., Letter of Accomondations) via [this link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEPkM_c4DCQVDrC0zCIGqORtUNUExUzVERFJJSUExN05OSVZNMkE5S1E2RS4u). The system will automatically respond with your new due date.  Extensions up to four days do not require documentation and are approved automatically. Please contact the instructor if a longer extension is needed.
+You can request an extension to submit project proposal and final project with appropriate materials (e.g., Letter of Accommodations) via [this link](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEPkM_c4DCQVDrC0zCIGqORtUNUExUzVERFJJSUExN05OSVZNMkE5S1E2RS4u). The system will automatically respond with your new due date.  Extensions up to four days do not require documentation and are approved automatically. Please contact the instructor if a longer extension is needed.
 
 ### Midterm test 
 

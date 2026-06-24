@@ -20,6 +20,24 @@ project:
       children:
         - file: weekly-materials/week01/homework/Homework_1.ipynb
           title: Week 1 homework
+    - title: Week 2
+      children:
+        - file: weekly-materials/week02/lab/Lab_2.ipynb
+          title: Week 2 Lab
+        - file: weekly-materials/week02/homework/Homework_2.ipynb
+          title: Week 2 homework
+    - title: Week 3
+      children:
+        - file: weekly-materials/week03/lab/Lab_3.ipynb
+          title: Week 3 Lab
+        - file: weekly-materials/week03/homework/Homework_3.ipynb
+          title: Week 3 homework
+    - title: Week 4
+      children:
+        - file: weekly-materials/week04/lab/Lab_4.ipynb
+          title: Week 4 Lab
+        - file: weekly-materials/week04/homework/Homework_4.ipynb
+          title: Week 4 homework
     - title: Week 7
       children:
         - file: weekly-materials/week07/lab/Lab_7.ipynb
