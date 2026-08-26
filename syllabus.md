@@ -6,11 +6,12 @@
 
 
 - Alex Ramiller
-    * Email: alex.ramiller@utoronto.ca
+    * Email: ggr274-20271@cs.utoronto.ca
     * Office hours: Monday 3-4pm, [Sidney Smith 5028](https://map.utoronto.ca/?id=1809#!m/494510)
 - Karen Reid
-    * Email: karen.reid@utoronto.ca
+    * Email: ggr174-20271@cs.utoronto.ca
     * Office hours: Tuesday 4:30-5:30, [Bahen Centre for IT BA4224](https://map.utoronto.ca/?id=1809#!m/494470) 
+
 
 Teaching assistants:
 
@@ -90,9 +91,9 @@ Class | Week of  | Topic
 Assessment              | Weight | Due Date/Date Held |
 ------------------------|--------|--------------------|
 Weekly homework         | 20%    | Monday 11:59pm the following week    |
-Weekly lab              | 5%     | Weekly lab and submission by Thursday 11:59pm |
+Weekly lab              | 10%     | Weekly lab and submission by Thursday 11:59pm |
 Midterm test            | 20%    | Feb. 10 9:10am-11:00am in person|
-Final project proposal  | 10%    | March 6 11:59pm    |
+Final project proposal  | 5%    | March 6 11:59pm    |
 Final project           | 15%    | April 2 11:59pm     |
 Final exam              | 30%    | April Final Assessment period |
 
