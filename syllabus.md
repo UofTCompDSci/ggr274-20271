@@ -67,6 +67,7 @@ By the end of this course, you should be able to:
 
 - Get a sense of geographical analysis and geo-visualization
 
+# TODO - double check dates
 
 ## Weekly schedule 
 
@@ -92,8 +93,8 @@ Assessment              | Weight | Due Date/Date Held |
 ------------------------|--------|--------------------|
 Weekly homework         | 20%    | Monday 11:59pm the following week    |
 Weekly lab              | 10%     | Weekly lab and submission by Thursday 11:59pm |
-Midterm test            | 20%    | Feb. 10 9:10am-11:00am in person|
-Final project proposal  | 5%    | March 6 11:59pm    |
+Midterm test            | 20%    | Feb. 23 9:10am-11:00am in person|
+Final project proposal  | 5%    | March 5 11:59pm    |
 Final project           | 15%    | April 2 11:59pm     |
 Final exam              | 30%    | April Final Assessment period |
 
