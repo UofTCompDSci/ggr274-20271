@@ -1,6 +1,6 @@
 # GGR274 Winter 2027 Course Syllabus  
 
-# DATA FROM 2026
+# DRAFT
 
 ## Teaching Team 
 
