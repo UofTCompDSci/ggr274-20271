@@ -17,6 +17,9 @@ project:
       children:
         - file: project/GGR274_Project_Instruction.ipynb
         - file: project/GGR274_Project_Data_Guide.ipynb
+        - file: project/GGR274_Project_Slides_Guide.ipynb
+        - file: project/GGR274_Project_Slides_Guide.ipynb
+        - file: project/GGR274_Project_Template.ipynb
     - title: Week 1
       children:
         - file: weekly-materials/week01/homework/Homework_1.ipynb
